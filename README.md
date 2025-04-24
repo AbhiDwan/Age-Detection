@@ -32,3 +32,12 @@ Key Points & Tips
 3. **Histogram Equalization**: Used to enhance the image contrast, which may improve prediction accuracy.
 4. **Real-time Performance**: Running inference on each frame may be slow. Techniques like resizing the frame or using a GPU can improve performance.
 5. **Model Backend**: Consider using CUDA for faster inference on supported GPUs.
+
+
+Group Members:
+ABHI PATEL       KU2407U247
+HEVIN            KU2407U293
+ARYAN PATEL      KU2407U257
+VIRAJ PATEL      KU2407U387
+AXAT PATEL       KU2407U261
+KALP PATEL       KU2407U308
